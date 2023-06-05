@@ -17,9 +17,7 @@ function Home() {
                         Front end Developer
                     </h1>
                     <p className='home__description'>
-                        BlablablaBlablablaBlablablaBlalab
-                        BlablablaBlablablaBlablablaBlalab
-                        BlablablaBlablablaBlablablaBlalab
+                        Quá đẹp trai
                     </p>
 
                     <Link to='/about' className='button'>
