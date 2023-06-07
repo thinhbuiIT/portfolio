@@ -49,7 +49,7 @@ function About() {
                     <div className='resume__data'>
                         {resume.map((val) => {
                             if (val.category === 'experience') {
-                                return (<ResumeItem key={val.id} {...val} />)
+                                return <ResumeItem key={val.id} {...val} />
                             }
                         })}
                     </div>

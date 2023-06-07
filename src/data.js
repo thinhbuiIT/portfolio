@@ -177,36 +177,36 @@ export const skills = [
   {
     id: 1,
     title: 'Html',
-    percentage: '25',
+    percentage: '90',
   },
 
   {
     id: 2,
     title: 'Javascript',
-    percentage: '89',
+    percentage: '85',
   },
 
   {
     id: 3,
     title: 'Css',
-    percentage: '70',
+    percentage: '85',
   },
 
   {
     id: 4,
-    title: 'Php',
-    percentage: '66',
+    title: 'Sass',
+    percentage: '75',
   },
 
   {
     id: 5,
-    title: 'Wordpress',
-    percentage: '95',
+    title: 'Typescript',
+    percentage: '70',
   },
 
   {
     id: 6,
-    title: 'Jquery',
+    title: 'Boostrap',
     percentage: '50',
   },
 
